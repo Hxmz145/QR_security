@@ -9,7 +9,7 @@ import * as ImagePicker from 'expo-image-picker';
 import * as FileSystem from 'expo-file-system'
 
 
-const api_key = 'AIzaSyANI7GrlX5St9vbavssfvR0QtafSiGmhwY'
+const api_key = 'API_KEY'
 
 const safeBrowsingApiUrl = `https://safebrowsing.googleapis.com/v4/threatMatches:find?key=${api_key}`
 
